@@ -1,5 +1,5 @@
 # 19xx - M702 - DOC - promo - 7000 series - 003.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -46,7 +46,7 @@ wide selection of key panel configurations is available. Prices will be supplied
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M702/19xx - M702 - DOC - promo - 7000 series - 003.jpg",
+ "file": "Modules/COMMUNICATION/M702/MANUALS/19xx - M702 - DOC - promo - 7000 series - 003.jpg",
  "sha256": "5f5424642b09d781cc173d9960388b874e2b36a5f19328cb06cfcf4b484e4e5f",
  "kind": "doc",
  "models": [

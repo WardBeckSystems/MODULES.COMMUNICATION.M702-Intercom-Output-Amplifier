@@ -1,5 +1,5 @@
 # 19xx - M702 - DOC - promo - 7000 series - 004.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -46,7 +46,7 @@ POWER AMPLIFIER SECTION (M702) GAIN: 35dB (Max:) + 2dB FREQUENCY RESPONSE: + IdB
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M702/19xx - M702 - DOC - promo - 7000 series - 004.jpg",
+ "file": "Modules/COMMUNICATION/M702/MANUALS/19xx - M702 - DOC - promo - 7000 series - 004.jpg",
  "sha256": "19a699f954bc9607b51f251e60618ec789c7aeee847260989c84f43dc91dcd40",
  "kind": "doc",
  "models": [

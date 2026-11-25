@@ -1,5 +1,5 @@
 # 1997 - M702 - 702-03-003 - SIMPLEX CONTINUOUS SOLID LINE HIDDEN OUS.dwg
-Wiki page: [M702](../../../PAGES/M702.md)
+Wiki page: [M702](../../../../PAGES/M702.md)
 
 
 - **Year:** 1997 (original file date 1997-06-12)
@@ -154,7 +154,7 @@ CODE:
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M702/1997 - M702 - 702-03-003 - SIMPLEX CONTINUOUS SOLID LINE HIDDEN OUS.dwg",
+ "file": "Modules/COMMUNICATION/M702/MECHANICAL/1997 - M702 - 702-03-003 - SIMPLEX CONTINUOUS SOLID LINE HIDDEN OUS.dwg",
  "sha256": "d93ea1d1ce42139af150e116667e7638597a57dca0a0cc66e735c46d233cc3d2",
  "kind": "module",
  "models": [

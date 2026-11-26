@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 65 in 49 lines: 25 · 0.950- · 690 · 388 · 0.410 · 12 · 45 DEG. · TYP . · TAP · 2-56 · (2 PLACES) · TAP 4-40
 - **Title block:** (249, 22)–(420, 90) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK · SYSTEMS · DRN WS · M7O2D · ENG · HEA TSINK · CKD · APP · SCALE DISC NO: M: |zxX · 702-03-003 · ISSUE · 2:1 CODE: M702-3
 
-Every curve, box, word and wire group: [19xx - M702 - DOC - 702-03-003 - REMOVE ALL BURRS AND SHARP EDGES (traced).json](../MECHANICAL/19xx%20-%20M702%20-%20DOC%20-%20702-03-003%20-%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20(traced).json) (the CAD file: `19xx - M702 - DOC - 702-03-003 - REMOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M702 - DOC - 702-03-003 - REMOVE ALL BURRS AND SHARP EDGES (traced).json](../MECHANICAL/19xx%20-%20M702%20-%20DOC%20-%20702-03-003%20-%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20%28traced%29.json) (the CAD file: `19xx - M702 - DOC - 702-03-003 - REMOVE ALL BURRS AND SHARP EDGES (traced).dxf`).
 
 ## Full text
 

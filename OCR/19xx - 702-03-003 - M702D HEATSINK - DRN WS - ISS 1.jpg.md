@@ -32,7 +32,7 @@ Wiki page: [M702](../../../../PAGES/M702.md)
 - **Words (OCR):** 65 in 49 lines: 25 · 0.950- · 690 · 388 · 0.410 · 12 · 45 DEG. · TYP . · TAP · 2-56 · (2 PLACES) · TAP 4-40
 - **Title block:** (249, 22)–(420, 90) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK · SYSTEMS · DRN WS · M7O2D · ENG · CKD · HEA TSINK · APP · SCALE DISC NO: M: |zxX · 702-03-003 · ISSUE · 2:1 CODE: M702-3
 
-Every curve, box, word and wire group: [19xx - 702-03-003 - M702D HEATSINK - DRN WS - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20702-03-003%20-%20M702D%20HEATSINK%20-%20DRN%20WS%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 702-03-003 - M702D HEATSINK - DRN WS - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 702-03-003 - M702D HEATSINK - DRN WS - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20702-03-003%20-%20M702D%20HEATSINK%20-%20DRN%20WS%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 702-03-003 - M702D HEATSINK - DRN WS - ISS 1 (traced).dxf`).
 
 ## Full text
 

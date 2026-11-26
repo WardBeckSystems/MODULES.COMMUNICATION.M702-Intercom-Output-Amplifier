@@ -34,7 +34,7 @@ Wiki page: [M702](../../../../PAGES/M702.md)
 - **Words (OCR):** 61 in 45 lines: 5.660 · 5.535 · 4.450 · .12 X 45 DEG_ · 450 · TRP 4-40 · (2 PLACES) · 1.500 · 1.000 · 0.970 · 0.750 · 0.530
 - **Title block:** (248, 20)–(418, 88) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN; BD/88 · M7O2C · ENG- WS · HEATSINK · CKD · APP · ISSUE · SCALE DISC NO: MA89001 · 702-03-002 · 1:1 CODE: MM702C1
 
-Every curve, box, word and wire group: [1988 - 702-03-002 - M702C HEATSINK - DRN BD -88 - ENG WS - ISS 1 (traced).json](../MECHANICAL/1988%20-%20702-03-002%20-%20M702C%20HEATSINK%20-%20DRN%20BD%20-88%20-%20ENG%20WS%20-%20ISS%201%20(traced).json) (the CAD file: `1988 - 702-03-002 - M702C HEATSINK - DRN BD -88 - ENG WS - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1988 - 702-03-002 - M702C HEATSINK - DRN BD -88 - ENG WS - ISS 1 (traced).json](../MECHANICAL/1988%20-%20702-03-002%20-%20M702C%20HEATSINK%20-%20DRN%20BD%20-88%20-%20ENG%20WS%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1988 - 702-03-002 - M702C HEATSINK - DRN BD -88 - ENG WS - ISS 1 (traced).dxf`).
 
 ## Full text
 

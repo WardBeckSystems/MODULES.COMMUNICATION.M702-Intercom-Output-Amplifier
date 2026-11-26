@@ -34,7 +34,7 @@ Wiki page: [M702](../../../../PAGES/M702.md)
 - **Words (OCR):** 49 in 38 lines: NOTES: · MATERIAL 060 · ALUM_ ALLOY · REMOVE BURRS ? SHARP EDGES · 130 DIA · CsK 82 To · 2/ EINSH · 23 DIA · PLACES · ANODIZE BLAcK · 3 TOLERANCES XX 015 · 42*45 TYP
 - **Title block:** (279, 13)–(432, 89) mm: 4/84 496 WAS 4.00-576 · RE-DRAWN · 35 WAS · ISSUE DATE · REVISION · APP · WBS WARD-BECK sysTEMS · DRN: 10/72 · ENG_ · M7o2B · HEATSINK · APP · SCALE · ISSUE · 1:1 · 702-03-001
 
-Every curve, box, word and wire group: [1984 - 702-03-001 - M702B HEATSINK - CKD GEB - ISS 5 (traced).json](../MECHANICAL/1984%20-%20702-03-001%20-%20M702B%20HEATSINK%20-%20CKD%20GEB%20-%20ISS%205%20(traced).json) (the CAD file: `1984 - 702-03-001 - M702B HEATSINK - CKD GEB - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 702-03-001 - M702B HEATSINK - CKD GEB - ISS 5 (traced).json](../MECHANICAL/1984%20-%20702-03-001%20-%20M702B%20HEATSINK%20-%20CKD%20GEB%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1984 - 702-03-001 - M702B HEATSINK - CKD GEB - ISS 5 (traced).dxf`).
 
 ## Full text
 

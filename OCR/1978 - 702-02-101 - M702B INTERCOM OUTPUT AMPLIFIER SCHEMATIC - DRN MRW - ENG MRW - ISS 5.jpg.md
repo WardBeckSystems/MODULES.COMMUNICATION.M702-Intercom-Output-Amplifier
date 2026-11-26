@@ -39,7 +39,7 @@ Intercom output amplifier schematic with title block at bottom right.
 - **Title block:** (711, 38)–(864, 71) mm: DATL · WBS WARD-DeCk SysTEMS · M7028
 - **Wiring (first pass):** 118 connected wire groups from 1,275 runs, 1 dotted junctions; labelled ends: 477 mm → CR 204; 372 mm → R5k8<, c2i5, Roo<; 318 mm → nok; 260 mm → 3248, Rzss, 17n5, R154; 259 mm → 1cz4, R14, '950, Zok
 
-Every curve, box, word and wire group: [1978 - 702-02-101 - M702B INTERCOM OUTPUT AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 5 (traced).json](../SCHEMATICS/1978%20-%20702-02-101%20-%20M702B%20INTERCOM%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%205%20(traced).json) (the CAD file: `1978 - 702-02-101 - M702B INTERCOM OUTPUT AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 702-02-101 - M702B INTERCOM OUTPUT AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 5 (traced).json](../SCHEMATICS/1978%20-%20702-02-101%20-%20M702B%20INTERCOM%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1978 - 702-02-101 - M702B INTERCOM OUTPUT AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 5 (traced).dxf`).
 
 ## Full text
 

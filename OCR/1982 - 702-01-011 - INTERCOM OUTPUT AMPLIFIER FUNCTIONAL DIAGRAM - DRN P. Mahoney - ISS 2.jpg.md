@@ -34,7 +34,7 @@ Wiki page: [M702](../../../../PAGES/M702.md)
 - **Closed boxes:** 15
 - **Wiring (first pass):** 126 connected wire groups from 357 runs
 
-Every curve, box, word and wire group: [1982 - 702-01-011 - INTERCOM OUTPUT AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2 (traced).json](../SCHEMATICS/1982%20-%20702-01-011%20-%20INTERCOM%20OUTPUT%20AMPLIFIER%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ISS%202%20(traced).json) (the CAD file: `1982 - 702-01-011 - INTERCOM OUTPUT AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 702-01-011 - INTERCOM OUTPUT AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2 (traced).json](../SCHEMATICS/1982%20-%20702-01-011%20-%20INTERCOM%20OUTPUT%20AMPLIFIER%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1982 - 702-01-011 - INTERCOM OUTPUT AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2 (traced).dxf`).
 
 ## Full text
 

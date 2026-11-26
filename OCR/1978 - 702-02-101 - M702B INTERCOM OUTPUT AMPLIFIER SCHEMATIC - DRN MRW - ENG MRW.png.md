@@ -35,7 +35,7 @@ Wiki page: [M702](../../../../PAGES/M702.md)
 - **Title block:** (739, 69)–(864, 113) mm: 4/o · DaTE · WBS · WARO-Beck Syst · M7028
 - **Wiring (first pass):** 128 connected wire groups from 1,258 runs; labelled ends: 1090 mm → WBS, SCHEMATiIC; 343 mm → 22/25; 342 mm → Urol-e, R?ia; 327 mm → nok; 276 mm → R2s2, C1os, 22/25
 
-Every curve, box, word and wire group: [1978 - 702-02-101 - M702B INTERCOM OUTPUT AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW (traced).json](../SCHEMATICS/1978%20-%20702-02-101%20-%20M702B%20INTERCOM%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20(traced).json) (the CAD file: `1978 - 702-02-101 - M702B INTERCOM OUTPUT AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 702-02-101 - M702B INTERCOM OUTPUT AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW (traced).json](../SCHEMATICS/1978%20-%20702-02-101%20-%20M702B%20INTERCOM%20OUTPUT%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20MRW%20-%20ENG%20MRW%20%28traced%29.json) (the CAD file: `1978 - 702-02-101 - M702B INTERCOM OUTPUT AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW (traced).dxf`).
 
 ## Full text
 

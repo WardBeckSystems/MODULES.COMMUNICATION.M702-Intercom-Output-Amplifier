@@ -13,6 +13,19 @@ Ward-Beck Systems M702, 1975|8. Wiki page: [M702 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 16 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [19xx - M702 - DOC - promo - 7000 series - 004.jpg](MANUALS/19xx%20-%20M702%20-%20DOC%20-%20promo%20-%207000%20series%20-%20004.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **PREAMPLIFIER SECTION (M7O1) GAIN** | 80dB (Max.) +2dB FREQUENCY RESPONSE: + IdB 100 Hz to 1OkHz NOISE: Equivalent to 122dBm relative input noise TOTAL HARMONIC DISTORLess than 1% measured at +18dBm TION: output INPUT: 60dBm, 150 ohms balanced (conditional strapping determines dynamic or carbon source) OUTPUT: 8dBm, 600 ohms balanced (+18dBm Max:) COMPRESSION: 25dB range (may be switched out) POWER +24 to 36 volts dc unregulated. REQUIREMENTS: 35mA approx M712 1 x 12 Crosspoint mother board GAIN: Unity (+6dB pre-set control incorported FREQUENCY RESPONSE: +0.5dB 50Hz to 10kHz NOISE: S/N better than 7OdB measured from +8dBm TOTAL HARMONIC DISTORLess than 0.5% measured at TION: +18dBm INPUT: +8dBm nominal (+18dBm Max:) balanced from direct line or from M703 preamplifier INPUT IMPEDANCE: 30k ohm balanced bridging OUTPUT: OdBm to +8dBm nominal (+18dBm Max:) CROSSPOINT ISOLATION/CUT OFF: 1OOdB TURN ON/OFF TRANSIENT: Inaudible POWER REQUIREMENTS: 24 volts dc regulated 15mA |
+| **POWER AMPLIFIER SECTION (M702) GAIN** | 35dB (Max:) +2dB FREQUENCY RESPONSE: + IdB 100 Hz to 8kHz NOISE: S/N better than 75dB measured from 3W output TOTAL HARMONIC DISTORLess than 15% measured at 3W TION: INPUT: OdBm to 18dBm, 600 ohms balanced from crosspoint matrix OUTPUT: 3 Watts directly into 8 ohms (not balanced) COMPRESSION: POWER +24 to 36 volts dc unregulated, 25mA REQUIREMENTS: (quiescent), 30OmA (at Max_ output) |
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

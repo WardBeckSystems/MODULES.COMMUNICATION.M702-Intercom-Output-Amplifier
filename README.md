@@ -58,7 +58,11 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 ## RTO-144 pinout
 
-Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
+
+**To check:**
+
+- polarity assumed: 4 contacts given + / − that the drawing does not mark (e.g. P1-21 SPEAKER OUTPUT) (M703: 1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS &amp; STRAPPING.jpg)
 
 **Inserts:** PRE OUT / POWER AMP IN: PRE OUTPUT → POWER AMP INPUT
 

@@ -581,5 +581,12 @@
    "note": "third drawing: carbon mic input direct on 3/4, dynamic mic input -60dBm via 1 MFD 200V MYLAR capacitors on the same pins; also 7-H and C-E"
   }
  ],
- "conflicts": []
+ "conflicts": [],
+ "to_check": [
+  {
+   "what": "polarity assumed",
+   "pin": null,
+   "detail": "4 contacts given + / − that the drawing does not mark (e.g. P1-21 SPEAKER OUTPUT) (M703: 1977 - M703 - B 703-02-001 - INTERCOM 701, 702, 703 INPUT OUTPUT AMP PIN CONNECTIONS & STRAPPING.jpg)"
+  }
+ ]
 }

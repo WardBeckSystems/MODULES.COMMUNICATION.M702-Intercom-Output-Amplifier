@@ -1,5 +1,5 @@
 # 19xx - 702-03-003 - M702D HEATSINK - DRN WS - ISS 1.jpg
-Wiki page: [M702](../../../../PAGES/M702.md)
+Wiki page: [M702](../)
 
 
 - **Year:** unknown (title block (read by eye))

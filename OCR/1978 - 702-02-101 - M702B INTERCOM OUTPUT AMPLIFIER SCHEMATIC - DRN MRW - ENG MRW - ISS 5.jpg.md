@@ -1,5 +1,5 @@
 # 1978 - 702-02-101 - M702B INTERCOM OUTPUT AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 5.jpg
-Wiki page: [M702](../../../../PAGES/M702.md)
+Wiki page: [M702](../)
 
 
 - **Year:** 1978 (title block date)

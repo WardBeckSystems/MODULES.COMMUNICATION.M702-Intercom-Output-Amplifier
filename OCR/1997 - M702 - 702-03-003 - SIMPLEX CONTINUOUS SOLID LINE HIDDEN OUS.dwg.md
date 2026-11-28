@@ -1,5 +1,5 @@
 # 1997 - M702 - 702-03-003 - SIMPLEX CONTINUOUS SOLID LINE HIDDEN OUS.dwg
-Wiki page: [M702](../../../../PAGES/M702.md)
+Wiki page: [M702](../)
 
 
 - **Year:** 1997 (original file date 1997-06-12)

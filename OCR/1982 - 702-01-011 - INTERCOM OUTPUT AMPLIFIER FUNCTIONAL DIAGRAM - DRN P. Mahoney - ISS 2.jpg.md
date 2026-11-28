@@ -1,5 +1,5 @@
 # 1982 - 702-01-011 - INTERCOM OUTPUT AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2.jpg
-Wiki page: [M702](../../../../PAGES/M702.md)
+Wiki page: [M702](../)
 
 
 - **Year:** 1982 (title block date)

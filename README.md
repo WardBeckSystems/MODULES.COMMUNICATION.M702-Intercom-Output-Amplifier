@@ -1,6 +1,6 @@
 # M702 Intercom Output Amplifier · Communication
 
-Ward-Beck Systems M702, 1975|8. Wiki page: [M702 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M702.html)
+Ward-Beck Systems M702, 1975|8. Wiki page: [M702 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M702-Intercom-Output-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

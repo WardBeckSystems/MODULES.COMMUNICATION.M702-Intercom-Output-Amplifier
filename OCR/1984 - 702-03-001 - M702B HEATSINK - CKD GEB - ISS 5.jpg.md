@@ -1,5 +1,5 @@
 # 1984 - 702-03-001 - M702B HEATSINK - CKD GEB - ISS 5.jpg
-Wiki page: [M702](../../../../PAGES/M702.md)
+Wiki page: [M702](../)
 
 
 - **Year:** 1984 (title block date)

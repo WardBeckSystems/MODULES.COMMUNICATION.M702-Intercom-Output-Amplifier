@@ -1,5 +1,5 @@
 # 1988 - 702-03-002 - M702C HEATSINK - DRN BD -88 - ENG WS - ISS 1.jpg
-Wiki page: [M702](../../../../PAGES/M702.md)
+Wiki page: [M702](../)
 
 
 - **Year:** 1988 (title block date)

@@ -4,13 +4,11 @@ Ward-Beck Systems M702, 1975|8. Wiki page: [M702 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 17 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 21 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 8 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 16 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 20 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 7 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 16 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -34,7 +32,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1DLTtW-wrQCzaPS8Bfl3haRiz5kjB9uSX/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1DLTtW-wrQCzaPS8Bfl3haRiz5kjB9uSX" width="240" alt="19xx - M702 - DOC - 702-03-003 - REMOVE ALL BURRS AND SHARP EDGES.jpg"></a><br><sub>19xx - M702 - DOC - 702-03-003 - REMOVE ALL BURRS AND SHARP EDGES · <a href="MECHANICAL/19xx%20-%20M702%20-%20DOC%20-%20702-03-003%20-%20REMOVE%20ALL%20BURRS%20AND%20SHARP%20EDGES%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1984 - 702-03-001 - M702B HEATSINK - CKD GEB - ISS 5.jpg`, `1988 - 702-03-002 - M702C HEATSINK - DRN BD -88 - ENG WS - ISS 1.jpg`, `19xx - 702-03-003 - M702D HEATSINK - DRN WS - ISS 1.jpg`
+## 3-D model
+
+[`MECHANICAL/M702.stl`](MECHANICAL/M702.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M702)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M702 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M702.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -43,8 +48,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1cbM0egWVODvvWU4f95tfNVWyIDYWLT6I/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1cbM0egWVODvvWU4f95tfNVWyIDYWLT6I" width="240" alt="19xx - M702 - DOC - 703-02-001 - INTERCOM AMPLIFIERS CONNECTOR STRAPPINGS ISSU.png"></a><br><sub>19xx - M702 - DOC - 703-02-001 - INTERCOM AMPLIFIERS CONNECTOR STRAPPINGS ISSU · <a href="SCHEMATICS/19xx%20-%20M702%20-%20DOC%20-%20703-02-001%20-%20INTERCOM%20AMPLIFIERS%20CONNECTOR%20STRAPPINGS%20ISSU%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1978 - 702-02-101 - M702B INTERCOM OUTPUT AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW - ISS 5.jpg`, `1978 - 702-02-101 - M702B INTERCOM OUTPUT AMPLIFIER SCHEMATIC - DRN MRW - ENG MRW.png`, `1982 - 702-01-011 - INTERCOM OUTPUT AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2.jpg`
 
 ## Manuals and documents
 
@@ -65,7 +68,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1982 - 702-01-011 - INTERCOM OUTPUT AMPLIFIER FUNCTIONAL DIAGRAM - DRN P. Mahoney - ISS 2.kicad_sch](KICAD/1982%20-%20702-01-011%20-%20INTERCOM%20OUTPUT%20AMPLIFIER%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20P.%20Mahoney%20-%20ISS%202.kicad_sch)
 - [19xx - M702 - DOC - 703-02-001 - INTERCOM AMPLIFIERS CONNECTOR STRAPPINGS ISSU.kicad_sch](KICAD/19xx%20-%20M702%20-%20DOC%20-%20703-02-001%20-%20INTERCOM%20AMPLIFIERS%20CONNECTOR%20STRAPPINGS%20ISSU.kicad_sch)
 - [M702.kicad_sym](KICAD/M702.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
